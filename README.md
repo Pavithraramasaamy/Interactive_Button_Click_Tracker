@@ -1,5 +1,5 @@
 # Interactive_Button_Click_Tracker
-## Date:
+## Date:13-07-2025
 ## Objective:
 To implement a counter using JavaScript closures and demonstrate how variables maintain their state across function calls, emphasizing the concepts of function scope and lexical closures.
 
